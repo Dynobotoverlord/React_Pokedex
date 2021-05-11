@@ -1,0 +1,23 @@
+.card{
+    height: 20rem;
+    width: 20rem;
+    background-color: blue;
+    margin:2rem
+}
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: center;
+    min-width: 90vh;
+}
+
+.card_img{
+height: 15rem;
+width:15rem;
+}
+
+.card_name{
+    color: white;
+}
